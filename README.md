@@ -1,1 +1,3 @@
 # YosemiteCougarSCR
+
+Here we include formatted data (data.txt), initial values (inits1.txt, inits2.text, inits3.text) and JAGS code (Scat_SCR_DSS_CamY.txt) to run an integrated spatial capture recapture model to estimate the abundance and density of cougars in a state-space that encompasses Yosemite National Park and the surrounding area. We have also included the model output (Chain1chain1, Chain1index1, etc.) which can be read into R following the post-model code included in the R file (YNP_Scat_220524_CGRB_230517.R) and subsequently used to complete summary statistics and visualize results. We have also included two field protocols which contain additional details and instructions on remote camera and scat data collection and methods.
